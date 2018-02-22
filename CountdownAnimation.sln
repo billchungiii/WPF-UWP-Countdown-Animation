@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountdownAnimation", "CountdownAnimation\CountdownAnimation.csproj", "{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountdownApp", "CountdownApp\CountdownApp.csproj", "{DEA28F08-3C07-455E-A85E-5F51465F997B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|ARM.Build.0 = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|x64.Build.0 = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Debug|x86.Build.0 = Debug|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|ARM.ActiveCfg = Release|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|ARM.Build.0 = Release|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|x64.ActiveCfg = Release|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|x64.Build.0 = Release|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|x86.ActiveCfg = Release|Any CPU
+		{080711E2-91F3-4EFB-94BC-DDB0C4A6093A}.Release|x86.Build.0 = Release|Any CPU
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|ARM.Build.0 = Debug|ARM
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|x64.ActiveCfg = Debug|x64
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|x64.Build.0 = Debug|x64
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|x64.Deploy.0 = Debug|x64
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|x86.ActiveCfg = Debug|x86
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|x86.Build.0 = Debug|x86
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Debug|x86.Deploy.0 = Debug|x86
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|Any CPU.ActiveCfg = Release|x86
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|ARM.ActiveCfg = Release|ARM
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|ARM.Build.0 = Release|ARM
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|ARM.Deploy.0 = Release|ARM
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|x64.ActiveCfg = Release|x64
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|x64.Build.0 = Release|x64
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|x64.Deploy.0 = Release|x64
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|x86.ActiveCfg = Release|x86
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|x86.Build.0 = Release|x86
+		{DEA28F08-3C07-455E-A85E-5F51465F997B}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5FBAA65-6AFF-4D9C-BB5F-5D6BBB26C545}
+	EndGlobalSection
+EndGlobal
